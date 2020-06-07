@@ -8,3 +8,5 @@ cache expires in 600 seconds
 
 To run:
 run "npm install" followed by "num run start" to run in local environment.
+
+//inspired by Traversy Media
